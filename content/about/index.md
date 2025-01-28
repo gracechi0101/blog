@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I'm Grace Chi the maker of the [Balloon App](https://balloonguthealth.com/)
